@@ -15,3 +15,4 @@ La **anticipación de amenazas cibernéticas** es una competencia esencial en el
  - **Ciberinteligencia Fundamentos de la inteligencia de amenazas cibernéticas: estrategias y técnicas para la protección.**:  https://ciberprisma.org/2024/08/25/fundamentos-de-la-inteligencia-de-amenazas-ciberneticas-estrategias-y-tecnicas-para-la-proteccion/
  - **Modelo de madurez CSIRT**: https://www.enisa.europa.eu/topics/incident-response/csirt-capabilities/csirt-maturity#contentList
  - **Modelado de amenazas** https://criminologiacorporativa.com/f/la-metodolog%C3%ADa-pasta-priorizando-amenazas-y-vulnerabilidades
+ - **Varios Recursos**  https://github.com/Samsar4
