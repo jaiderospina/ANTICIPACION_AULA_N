@@ -1,4 +1,4 @@
-**Bienvenido al primer escalón de la anticipación de amenazas cibernéticas.**
+# **Bienvenido al primer escalón de la anticipación de amenazas cibernéticas.**
 
  Para anticiparse a las amenazas, no basta con entender el terreno de juego; hay que saber cómo mover las piezas, tender emboscadas y, sobre todo, anticipar los movimientos del adversario. Aquí tienes tu manual esencial de redes, ahora con enfoque ofensivo y defensivo.
 
@@ -134,4 +134,5 @@ Entender redes es el primer paso, pero orientarlo a Red Team significa ir más a
 
 - https://achirou.com/curso-de-redes-para-hackers-el-modelo-osi/
 - https://ciberprisma.org/2024/07/04/como-los-cibercriminales-atacan-cada-una-de-las-capas-del-modelo-osi-1-7/
+
 
