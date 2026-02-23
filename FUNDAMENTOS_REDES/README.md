@@ -127,4 +127,9 @@ El Red Team no solo ataca; también ayuda a anticipar. ¿Cómo?
 
 Entender redes es el primer paso, pero orientarlo a Red Team significa ir más allá: **cada protocolo, cada dirección, cada puerto es una oportunidad para atacar o para defender**. Conocer las herramientas y técnicas ofensivas te permite construir defensas más sólidas, anticipándote a los movimientos del adversario. La red ya no es solo un conducto; es el campo de batalla donde se libra la guerra cibernética.
 
+
 **Siguiente paso:** Aprende a escanear redes como un atacante con `nmap`, a interceptar tráfico con `Wireshark` y a explotar servicios con `Metasploit`. La práctica es clave.
+
+**BIBLIOGRAFIA**
+
+- https://achirou.com/curso-de-redes-para-hackers-el-modelo-osi/
