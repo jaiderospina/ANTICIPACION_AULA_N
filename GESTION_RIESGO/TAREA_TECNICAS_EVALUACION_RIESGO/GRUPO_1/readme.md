@@ -205,16 +205,3 @@ Este documento presenta un compendio de técnicas de evaluación de riesgos apli
 
 ---
 
-## Enfoque Recomendado (Ciberdefensa)
-
-Para entornos militares o CPS:
-
-- Identificación: Brainstorming + Checklist + SWIFT  
-- Análisis: FMEA + Bow-Tie + LOPA  
-- Cuantificación: Monte Carlo + Bayes  
-- Decisión: MCDA + Matriz de riesgo  
-
----
-
-## Autor
-Documento orientado a análisis de riesgos en ciberseguridad y ciberdefensa.
