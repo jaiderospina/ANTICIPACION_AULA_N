@@ -108,3 +108,13 @@ Referencia estructurada de técnicas para identificar, analizar y gestionar ries
 
 <details>
 <summary>Ver estructura completa</summary>
+Técnicas de Evaluación de Riesgos
+├── Identificación y Consulta
+├── Análisis de Peligros
+├── Análisis de Fallas
+├── Modelado
+├── Probabilidad
+└── Decisión
+
+
+</details>
