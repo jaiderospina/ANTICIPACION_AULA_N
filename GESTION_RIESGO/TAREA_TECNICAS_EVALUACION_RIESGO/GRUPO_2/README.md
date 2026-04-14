@@ -13,7 +13,13 @@
 ![ISO 27032](https://img.shields.io/badge/ISO%2FIEC%2027032-2023-0F6E56?style=for-the-badge&logo=security&logoColor=white)
 ![CEM 2026](https://img.shields.io/badge/CEM-2026-BA7517?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
-**Curso de Estado Mayor — Fuerza Aérea Colombiana**  
+**Curso de Estado Mayor **  
+MY. SALEK VARGAS SAMIR ALFONSO
+MY. URIBE RUEDA ANDRES RODRIGO
+MYCIM. GALLO PIMIENTO REINEL
+MY. MARTINEZ RINCON DAVID FERNANDO
+MY. BAEZ LIZARAZO JAVIER HERNANDO
+
 *Módulo: Ciberseguridad y Gestión de Riesgos*
 
 [Ver técnicas preventivas](#-técnicas-de-identificación-preventivas) · [Ver técnicas analíticas](#-técnicas-analíticas-cuantitativas) · [Ver técnicas de apoyo](#-técnicas-de-apoyo-a-la-decisión)
@@ -585,7 +591,7 @@ IEC 61511-3      — Safety Instrumented Systems
 <div align="center">
 
 **Curso de Estado Mayor — CEM 2026**  
-Fuerza Aérea Colombiana  
+ 
 *Módulo: Ciberseguridad y Gestión de Riesgos*
 
 ![GitHub](https://img.shields.io/badge/Documento-Académico-1F4E79?style=for-the-badge)
