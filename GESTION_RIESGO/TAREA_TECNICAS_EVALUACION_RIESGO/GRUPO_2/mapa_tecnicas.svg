@@ -1,0 +1,193 @@
+<svg viewBox="0 0 960 520" xmlns="http://www.w3.org/2000/svg" width="960" height="520">
+  <!-- Background -->
+  <rect width="960" height="520" fill="#F8F9FC" rx="12"/>
+
+  <!-- Title -->
+  <text x="480" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#1F4E79">Mapa de las 30 Técnicas — ISO 31000:2018</text>
+  <text x="480" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#5F5E5A">Clasificación por tipo y fase de aplicación</text>
+
+  <!-- ══════════ GROUP 1: IDENTIFICACIÓN ══════════ -->
+  <rect x="20" y="75" width="220" height="420" rx="10" fill="#EBF3FB" stroke="#378ADD" stroke-width="1.5"/>
+  <rect x="20" y="75" width="220" height="36" rx="10" fill="#1F4E79"/>
+  <rect x="20" y="99" width="220" height="12" fill="#1F4E79"/>
+  <text x="130" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">🔍 IDENTIFICACIÓN</text>
+
+  <!-- Cards group 1 -->
+  <rect x="32" y="120" width="196" height="28" rx="6" fill="#ffffff" stroke="#B5D4F4" stroke-width="1"/>
+  <text x="42" y="132" font-family="Arial, sans-serif" font-size="10" fill="#185FA5" font-weight="700">01</text>
+  <text x="58" y="132" font-family="Arial, sans-serif" font-size="10" fill="#1F4E79">Lluvia de ideas</text>
+  <text x="42" y="142" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · Grupal</text>
+
+  <rect x="32" y="154" width="196" height="28" rx="6" fill="#ffffff" stroke="#B5D4F4" stroke-width="1"/>
+  <text x="42" y="166" font-family="Arial, sans-serif" font-size="10" fill="#185FA5" font-weight="700">02</text>
+  <text x="58" y="166" font-family="Arial, sans-serif" font-size="10" fill="#1F4E79">Lista de verificación</text>
+  <text x="42" y="176" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · Sistemático</text>
+
+  <rect x="32" y="188" width="196" height="28" rx="6" fill="#ffffff" stroke="#B5D4F4" stroke-width="1"/>
+  <text x="42" y="200" font-family="Arial, sans-serif" font-size="10" fill="#185FA5" font-weight="700">03</text>
+  <text x="58" y="200" font-family="Arial, sans-serif" font-size="10" fill="#1F4E79">HACCP</text>
+  <text x="42" y="210" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · Proceso</text>
+
+  <rect x="32" y="222" width="196" height="28" rx="6" fill="#ffffff" stroke="#B5D4F4" stroke-width="1"/>
+  <text x="42" y="234" font-family="Arial, sans-serif" font-size="10" fill="#185FA5" font-weight="700">04</text>
+  <text x="58" y="234" font-family="Arial, sans-serif" font-size="10" fill="#1F4E79">Análisis de escenarios</text>
+  <text x="42" y="244" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · Prospectivo</text>
+
+  <rect x="32" y="256" width="196" height="28" rx="6" fill="#ffffff" stroke="#B5D4F4" stroke-width="1"/>
+  <text x="42" y="268" font-family="Arial, sans-serif" font-size="10" fill="#185FA5" font-weight="700">05</text>
+  <text x="58" y="268" font-family="Arial, sans-serif" font-size="10" fill="#1F4E79">AMEF / FMEA</text>
+  <text x="42" y="278" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · NPR</text>
+
+  <rect x="32" y="290" width="196" height="28" rx="6" fill="#ffffff" stroke="#B5D4F4" stroke-width="1"/>
+  <text x="42" y="302" font-family="Arial, sans-serif" font-size="10" fill="#185FA5" font-weight="700">06</text>
+  <text x="58" y="302" font-family="Arial, sans-serif" font-size="10" fill="#1F4E79">Entrevista estructurada</text>
+  <text x="42" y="312" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · Expertos</text>
+
+  <rect x="32" y="324" width="196" height="28" rx="6" fill="#ffffff" stroke="#B5D4F4" stroke-width="1"/>
+  <text x="42" y="336" font-family="Arial, sans-serif" font-size="10" fill="#185FA5" font-weight="700">07</text>
+  <text x="58" y="336" font-family="Arial, sans-serif" font-size="10" fill="#1F4E79">Análisis primario PHA</text>
+  <text x="42" y="346" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · Diseño</text>
+
+  <rect x="32" y="358" width="196" height="28" rx="6" fill="#ffffff" stroke="#B5D4F4" stroke-width="1"/>
+  <text x="42" y="370" font-family="Arial, sans-serif" font-size="10" fill="#185FA5" font-weight="700">08</text>
+  <text x="58" y="370" font-family="Arial, sans-serif" font-size="10" fill="#1F4E79">Riesgo ambiental</text>
+  <text x="42" y="380" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · Contexto</text>
+
+  <rect x="32" y="392" width="196" height="28" rx="6" fill="#ffffff" stroke="#B5D4F4" stroke-width="1"/>
+  <text x="42" y="404" font-family="Arial, sans-serif" font-size="10" fill="#185FA5" font-weight="700">09</text>
+  <text x="58" y="404" font-family="Arial, sans-serif" font-size="10" fill="#1F4E79">BIA</text>
+  <text x="42" y="414" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · Continuidad</text>
+
+  <rect x="32" y="426" width="196" height="28" rx="6" fill="#ffffff" stroke="#B5D4F4" stroke-width="1"/>
+  <text x="42" y="438" font-family="Arial, sans-serif" font-size="10" fill="#185FA5" font-weight="700">25</text>
+  <text x="58" y="438" font-family="Arial, sans-serif" font-size="10" fill="#1F4E79">HAZOP</text>
+  <text x="42" y="448" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · Palabras guía</text>
+
+  <rect x="32" y="460" width="196" height="28" rx="6" fill="#ffffff" stroke="#B5D4F4" stroke-width="1"/>
+  <text x="42" y="472" font-family="Arial, sans-serif" font-size="10" fill="#185FA5" font-weight="700">26</text>
+  <text x="58" y="472" font-family="Arial, sans-serif" font-size="10" fill="#1F4E79">SWIFT</text>
+  <text x="42" y="482" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · ¿Qué pasa si?</text>
+
+  <!-- ══════════ GROUP 2: ANÁLISIS CAUSAL ══════════ -->
+  <rect x="253" y="75" width="210" height="420" rx="10" fill="#FEF0E6" stroke="#D85A30" stroke-width="1.5"/>
+  <rect x="253" y="75" width="210" height="36" rx="10" fill="#993C1D"/>
+  <rect x="253" y="99" width="210" height="12" fill="#993C1D"/>
+  <text x="358" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">🔬 ANÁLISIS CAUSAL</text>
+
+  <rect x="265" y="120" width="186" height="28" rx="6" fill="#ffffff" stroke="#F5C4B3" stroke-width="1"/>
+  <text x="275" y="132" font-family="Arial, sans-serif" font-size="10" fill="#993C1D" font-weight="700">10</text>
+  <text x="291" y="132" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Árbol de fallas (FTA)</text>
+  <text x="275" y="142" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · Deductivo</text>
+
+  <rect x="265" y="154" width="186" height="28" rx="6" fill="#ffffff" stroke="#F5C4B3" stroke-width="1"/>
+  <text x="275" y="166" font-family="Arial, sans-serif" font-size="10" fill="#993C1D" font-weight="700">11</text>
+  <text x="291" y="166" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Causa y consecuencia</text>
+  <text x="275" y="176" font-family="Arial, sans-serif" font-size="9" fill="#888780">Semicuant. · Híbrido</text>
+
+  <rect x="265" y="188" width="186" height="28" rx="6" fill="#ffffff" stroke="#F5C4B3" stroke-width="1"/>
+  <text x="275" y="200" font-family="Arial, sans-serif" font-size="10" fill="#993C1D" font-weight="700">12</text>
+  <text x="291" y="200" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Ishikawa / Causa-efecto</text>
+  <text x="275" y="210" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · Espina pez</text>
+
+  <rect x="265" y="222" width="186" height="28" rx="6" fill="#ffffff" stroke="#F5C4B3" stroke-width="1"/>
+  <text x="275" y="234" font-family="Arial, sans-serif" font-size="10" fill="#993C1D" font-weight="700">14</text>
+  <text x="291" y="234" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Conf. humana HRA</text>
+  <text x="275" y="244" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · Error humano</text>
+
+  <rect x="265" y="256" width="186" height="28" rx="6" fill="#ffffff" stroke="#F5C4B3" stroke-width="1"/>
+  <text x="275" y="268" font-family="Arial, sans-serif" font-size="10" fill="#993C1D" font-weight="700">15</text>
+  <text x="291" y="268" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Mantenimiento RCM</text>
+  <text x="275" y="278" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · Confiabilidad</text>
+
+  <rect x="265" y="290" width="186" height="28" rx="6" fill="#ffffff" stroke="#F5C4B3" stroke-width="1"/>
+  <text x="275" y="302" font-family="Arial, sans-serif" font-size="10" fill="#993C1D" font-weight="700">16</text>
+  <text x="291" y="302" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Circuito furtivo</text>
+  <text x="275" y="312" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · Diseño</text>
+
+  <rect x="265" y="324" width="186" height="28" rx="6" fill="#ffffff" stroke="#F5C4B3" stroke-width="1"/>
+  <text x="275" y="336" font-family="Arial, sans-serif" font-size="10" fill="#993C1D" font-weight="700">20</text>
+  <text x="291" y="336" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Bow Tie (Corbatín)</text>
+  <text x="275" y="346" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · FTA+ETA</text>
+
+  <rect x="265" y="358" width="186" height="28" rx="6" fill="#ffffff" stroke="#F5C4B3" stroke-width="1"/>
+  <text x="275" y="370" font-family="Arial, sans-serif" font-size="10" fill="#993C1D" font-weight="700">27</text>
+  <text x="291" y="370" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Causa raíz RCA</text>
+  <text x="275" y="380" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · Post-incidente</text>
+
+  <rect x="265" y="392" width="186" height="28" rx="6" fill="#ffffff" stroke="#F5C4B3" stroke-width="1"/>
+  <text x="275" y="404" font-family="Arial, sans-serif" font-size="10" fill="#993C1D" font-weight="700">28</text>
+  <text x="291" y="404" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Árbol de eventos ETA</text>
+  <text x="275" y="414" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · Inductivo</text>
+
+  <!-- ══════════ GROUP 3: CUANTITATIVO ══════════ -->
+  <rect x="476" y="75" width="210" height="420" rx="10" fill="#E8F5E4" stroke="#3B6D11" stroke-width="1.5"/>
+  <rect x="476" y="75" width="210" height="36" rx="10" fill="#0F6E56"/>
+  <rect x="476" y="99" width="210" height="12" fill="#0F6E56"/>
+  <text x="581" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">📊 CUANTITATIVO</text>
+
+  <rect x="488" y="120" width="186" height="28" rx="6" fill="#ffffff" stroke="#C0DD97" stroke-width="1"/>
+  <text x="498" y="132" font-family="Arial, sans-serif" font-size="10" fill="#3B6D11" font-weight="700">17</text>
+  <text x="514" y="132" font-family="Arial, sans-serif" font-size="10" fill="#173404">Simulación Monte Carlo</text>
+  <text x="498" y="142" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · 100K iter.</text>
+
+  <rect x="488" y="154" width="186" height="28" rx="6" fill="#ffffff" stroke="#C0DD97" stroke-width="1"/>
+  <text x="498" y="166" font-family="Arial, sans-serif" font-size="10" fill="#3B6D11" font-weight="700">18</text>
+  <text x="514" y="166" font-family="Arial, sans-serif" font-size="10" fill="#173404">Redes bayesianas</text>
+  <text x="498" y="176" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · Bayes/DAG</text>
+
+  <rect x="488" y="188" width="186" height="28" rx="6" fill="#ffffff" stroke="#C0DD97" stroke-width="1"/>
+  <text x="498" y="200" font-family="Arial, sans-serif" font-size="10" fill="#3B6D11" font-weight="700">19</text>
+  <text x="514" y="200" font-family="Arial, sans-serif" font-size="10" fill="#173404">Cap. protección LOPA</text>
+  <text x="498" y="210" font-family="Arial, sans-serif" font-size="9" fill="#888780">Semicuant. · IPL/PFD</text>
+
+  <rect x="488" y="222" width="186" height="28" rx="6" fill="#ffffff" stroke="#C0DD97" stroke-width="1"/>
+  <text x="498" y="234" font-family="Arial, sans-serif" font-size="10" fill="#3B6D11" font-weight="700">21</text>
+  <text x="514" y="234" font-family="Arial, sans-serif" font-size="10" fill="#173404">Análisis de Markov</text>
+  <text x="498" y="244" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · Estados</text>
+
+  <rect x="488" y="256" width="186" height="28" rx="6" fill="#ffffff" stroke="#C0DD97" stroke-width="1"/>
+  <text x="498" y="268" font-family="Arial, sans-serif" font-size="10" fill="#3B6D11" font-weight="700">22</text>
+  <text x="514" y="268" font-family="Arial, sans-serif" font-size="10" fill="#173404">Matriz consecuencia/prob.</text>
+  <text x="498" y="278" font-family="Arial, sans-serif" font-size="9" fill="#888780">Semicuant. · 5×5</text>
+
+  <rect x="488" y="290" width="186" height="28" rx="6" fill="#ffffff" stroke="#C0DD97" stroke-width="1"/>
+  <text x="498" y="302" font-family="Arial, sans-serif" font-size="10" fill="#3B6D11" font-weight="700">29</text>
+  <text x="514" y="302" font-family="Arial, sans-serif" font-size="10" fill="#173404">Índices de riesgo</text>
+  <text x="498" y="312" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · IRC</text>
+
+  <!-- ══════════ GROUP 4: DECISIÓN ══════════ -->
+  <rect x="699" y="75" width="245" height="420" rx="10" fill="#FEF7E8" stroke="#BA7517" stroke-width="1.5"/>
+  <rect x="699" y="75" width="245" height="36" rx="10" fill="#854F0B"/>
+  <rect x="699" y="99" width="245" height="12" fill="#854F0B"/>
+  <text x="821" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">⚖️ APOYO A LA DECISIÓN</text>
+
+  <rect x="711" y="120" width="221" height="28" rx="6" fill="#ffffff" stroke="#FAC775" stroke-width="1"/>
+  <text x="721" y="132" font-family="Arial, sans-serif" font-size="10" fill="#854F0B" font-weight="700">13</text>
+  <text x="737" y="132" font-family="Arial, sans-serif" font-size="10" fill="#412402">Árbol de decisión</text>
+  <text x="721" y="142" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · Valor esperado</text>
+
+  <rect x="711" y="154" width="221" height="28" rx="6" fill="#ffffff" stroke="#FAC775" stroke-width="1"/>
+  <text x="721" y="166" font-family="Arial, sans-serif" font-size="10" fill="#854F0B" font-weight="700">23</text>
+  <text x="737" y="166" font-family="Arial, sans-serif" font-size="10" fill="#412402">Costo/Beneficio</text>
+  <text x="721" y="176" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · ROI seguridad</text>
+
+  <rect x="711" y="188" width="221" height="28" rx="6" fill="#ffffff" stroke="#FAC775" stroke-width="1"/>
+  <text x="721" y="200" font-family="Arial, sans-serif" font-size="10" fill="#854F0B" font-weight="700">24</text>
+  <text x="737" y="200" font-family="Arial, sans-serif" font-size="10" fill="#412402">Criterios múltiples MCDM</text>
+  <text x="721" y="210" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cuantitativo · AHP/TOPSIS</text>
+
+  <rect x="711" y="222" width="221" height="28" rx="6" fill="#ffffff" stroke="#FAC775" stroke-width="1"/>
+  <text x="721" y="234" font-family="Arial, sans-serif" font-size="10" fill="#854F0B" font-weight="700">30</text>
+  <text x="737" y="234" font-family="Arial, sans-serif" font-size="10" fill="#412402">Método Delphi</text>
+  <text x="721" y="244" font-family="Arial, sans-serif" font-size="9" fill="#888780">Cualitativo · Consenso expertos</text>
+
+  <!-- Legend bottom -->
+  <rect x="20" y="500" width="920" height="16" rx="4" fill="none"/>
+  <circle cx="220" cy="508" r="5" fill="#378ADD"/>
+  <text x="230" y="512" font-family="Arial, sans-serif" font-size="10" fill="#444441">Cuantitativo</text>
+  <circle cx="320" cy="508" r="5" fill="#1D9E75"/>
+  <text x="330" y="512" font-family="Arial, sans-serif" font-size="10" fill="#444441">Cualitativo</text>
+  <circle cx="410" cy="508" r="5" fill="#BA7517"/>
+  <text x="420" y="512" font-family="Arial, sans-serif" font-size="10" fill="#444441">Semicuantitativo</text>
+  <text x="560" y="512" font-family="Arial, sans-serif" font-size="10" fill="#888780">Fuente: ISO 31000:2018 | IEC 31010:2019 | Material CEM 2026</text>
+</svg>

@@ -1,0 +1,88 @@
+<svg viewBox="0 0 860 320" xmlns="http://www.w3.org/2000/svg" width="860" height="320">
+  <rect width="860" height="320" fill="#F8F9FC" rx="10"/>
+  <text x="430" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1F4E79">Técnica 20 — Bow Tie / Esquema de Corbatín</text>
+  <text x="430" y="46" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#5F5E5A">Acceso No Autorizado a Sistemas Clasificados</text>
+
+  <!-- Left threats -->
+  <rect x="20" y="70" width="140" height="30" rx="6" fill="#FCEBEB" stroke="#E24B4A" stroke-width="1"/>
+  <text x="90" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#501313">Phishing / Spear phishing</text>
+
+  <rect x="20" y="112" width="140" height="30" rx="6" fill="#FCEBEB" stroke="#E24B4A" stroke-width="1"/>
+  <text x="90" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#501313">Amenaza interna (Insider)</text>
+
+  <rect x="20" y="154" width="140" height="30" rx="6" fill="#FCEBEB" stroke="#E24B4A" stroke-width="1"/>
+  <text x="90" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#501313">Vulnerabilidad técnica</text>
+
+  <rect x="20" y="196" width="140" height="30" rx="6" fill="#FCEBEB" stroke="#E24B4A" stroke-width="1"/>
+  <text x="90" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#501313">Ataque de fuerza bruta</text>
+
+  <!-- Lines threats to center -->
+  <line x1="160" y1="85" x2="370" y2="175" stroke="#E24B4A" stroke-width="1.5" opacity="0.7"/>
+  <line x1="160" y1="127" x2="370" y2="175" stroke="#E24B4A" stroke-width="1.5" opacity="0.7"/>
+  <line x1="160" y1="169" x2="370" y2="175" stroke="#E24B4A" stroke-width="1.5" opacity="0.7"/>
+  <line x1="160" y1="211" x2="370" y2="175" stroke="#E24B4A" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- Preventive barriers left -->
+  <rect x="180" y="80" width="110" height="26" rx="5" fill="#EBF3FB" stroke="#378ADD" stroke-width="1.2"/>
+  <text x="235" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0C447C" font-weight="700">Capacitación</text>
+  <text x="235" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0C447C">anti-phishing</text>
+
+  <rect x="180" y="120" width="110" height="26" rx="5" fill="#EBF3FB" stroke="#378ADD" stroke-width="1.2"/>
+  <text x="235" y="133" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0C447C" font-weight="700">Control de acceso</text>
+  <text x="235" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0C447C">MFA + RBAC</text>
+
+  <rect x="180" y="160" width="110" height="26" rx="5" fill="#EBF3FB" stroke="#378ADD" stroke-width="1.2"/>
+  <text x="235" y="173" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0C447C" font-weight="700">Gestión de parches</text>
+  <text x="235" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#0C447C">y vulnerabilidades</text>
+
+  <!-- Central event -->
+  <polygon points="370,140 430,175 370,210 310,175" fill="#1F4E79" stroke="#0C447C" stroke-width="2"/>
+  <text x="370" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#ffffff">ACCESO</text>
+  <text x="370" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#ffffff">NO AUTORIZDO</text>
+
+  <!-- Right consequences -->
+  <rect x="700" y="70" width="145" height="30" rx="6" fill="#FEF0E6" stroke="#D85A30" stroke-width="1"/>
+  <text x="772" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Fuga de información</text>
+  <text x="772" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#711B0C">clasificada</text>
+
+  <rect x="700" y="112" width="145" height="30" rx="6" fill="#FEF0E6" stroke="#D85A30" stroke-width="1"/>
+  <text x="772" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Daño reputacional</text>
+  <text x="772" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#711B0C">institucional</text>
+
+  <rect x="700" y="154" width="145" height="30" rx="6" fill="#FEF0E6" stroke="#D85A30" stroke-width="1"/>
+  <text x="772" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Interrupción</text>
+  <text x="772" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#711B0C">operaciones críticas</text>
+
+  <rect x="700" y="196" width="145" height="30" rx="6" fill="#FEF0E6" stroke="#D85A30" stroke-width="1"/>
+  <text x="772" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#711B0C">Sanciones y</text>
+  <text x="772" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#711B0C">responsabilidad legal</text>
+
+  <!-- Lines center to consequences -->
+  <line x1="430" y1="175" x2="700" y2="85" stroke="#D85A30" stroke-width="1.5" opacity="0.7"/>
+  <line x1="430" y1="175" x2="700" y2="127" stroke="#D85A30" stroke-width="1.5" opacity="0.7"/>
+  <line x1="430" y1="175" x2="700" y2="169" stroke="#D85A30" stroke-width="1.5" opacity="0.7"/>
+  <line x1="430" y1="175" x2="700" y2="211" stroke="#D85A30" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- Mitigation barriers right -->
+  <rect x="565" y="80" width="118" height="26" rx="5" fill="#E8F5E4" stroke="#3B6D11" stroke-width="1.2"/>
+  <text x="624" y="93" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#173404" font-weight="700">Cifrado en reposo</text>
+  <text x="624" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#173404">y en tránsito</text>
+
+  <rect x="565" y="120" width="118" height="26" rx="5" fill="#E8F5E4" stroke="#3B6D11" stroke-width="1.2"/>
+  <text x="624" y="133" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#173404" font-weight="700">DLP + SIEM</text>
+  <text x="624" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#173404">monitoreo activo</text>
+
+  <rect x="565" y="160" width="118" height="26" rx="5" fill="#E8F5E4" stroke="#3B6D11" stroke-width="1.2"/>
+  <text x="624" y="173" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#173404" font-weight="700">Plan de respuesta</text>
+  <text x="624" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#173404">a incidentes (IRP)</text>
+
+  <!-- Labels -->
+  <text x="90" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#A32D2D" font-weight="700">AMENAZAS</text>
+  <text x="235" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#185FA5" font-weight="700">BARRERAS PREV.</text>
+  <text x="370" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#1F4E79" font-weight="700">EVENTO CENTRAL</text>
+  <text x="624" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#3B6D11" font-weight="700">BARRERAS MITIG.</text>
+  <text x="772" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#993C1D" font-weight="700">CONSECUENCIAS</text>
+
+  <!-- Footer -->
+  <text x="430" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#888780">Bow Tie · Técnica 20 de 30 · ISO 31000:2018 · CEM 2026 — FAC</text>
+</svg>
