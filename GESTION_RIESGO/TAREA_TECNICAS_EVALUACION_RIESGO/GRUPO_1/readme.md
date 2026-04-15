@@ -175,4 +175,5 @@ Este documento presenta un compendio de técnicas de evaluación de riesgos apli
 
 **Cuadro Resumen**
 
-<img width="442" height="156" alt="image" src="https://github.com/user-attachments/assets/0910b3da-2978-4ffc-9e2f-569cb1bc4cde" />
+<img width="1600" height="1600" alt="WhatsApp Image 2026-04-14 at 14 45 46" src="https://github.com/user-attachments/assets/9c0c467f-8264-403f-9e9c-1c0b8d47d3e1" />
+
