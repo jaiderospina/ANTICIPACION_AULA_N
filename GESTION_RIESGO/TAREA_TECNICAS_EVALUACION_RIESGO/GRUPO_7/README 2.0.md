@@ -1,7 +1,7 @@
 # Glosario de Técnicas de Evaluación de Riesgos
 
 ---
-<img src="riesgogrupo7.png" alt="Diagrama de riesgo" width="500"/>
+![Diagrama de riesgo](images/riesgo.png)
 
 ## Índice
 
