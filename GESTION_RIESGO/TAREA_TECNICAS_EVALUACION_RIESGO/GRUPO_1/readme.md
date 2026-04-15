@@ -3,6 +3,7 @@
 
 Este documento presenta un compendio de técnicas de evaluación de riesgos aplicadas al dominio de la ciberseguridad, alineadas con estándares internacionales de gestión de riesgos. Cada técnica incluye una definición breve y un ejemplo aplicado.
 
+<img width="1600" height="1600" alt="WhatsApp Image 2026-04-14 at 14 45 46" src="https://github.com/user-attachments/assets/9c0c467f-8264-403f-9e9c-1c0b8d47d3e1" />
 
 ## 1. Técnicas de Identificación de Riesgos
 
@@ -175,5 +176,5 @@ Este documento presenta un compendio de técnicas de evaluación de riesgos apli
 
 **Cuadro Resumen**
 
-<img width="1600" height="1600" alt="WhatsApp Image 2026-04-14 at 14 45 46" src="https://github.com/user-attachments/assets/9c0c467f-8264-403f-9e9c-1c0b8d47d3e1" />
+
 
