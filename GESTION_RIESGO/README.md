@@ -43,3 +43,5 @@ $$Riesgo = Amenaza \times Vulnerabilidad \times Impacto$$
 1.  **Contexto:** Definir qué leyes, reglamentos y objetivos rigen a la entidad.
 2.  **Valoración:** Determinar qué tan grave sería perder el control de un sistema (ej. un sistema de control de reactores nucleares tiene un impacto extremo).
 3.  **Monitoreo Continuo:** El riesgo en el ciberespacio no es estático; una nueva vulnerabilidad descubierta hoy (Zero-day) cambia el perfil de riesgo instantáneamente.
+
+
