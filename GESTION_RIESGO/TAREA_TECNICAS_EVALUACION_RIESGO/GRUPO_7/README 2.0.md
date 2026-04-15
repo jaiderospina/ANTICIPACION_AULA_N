@@ -1,10 +1,5 @@
 # Glosario de Técnicas de Evaluación de Riesgos
 
-> **30 técnicas esenciales en ciberseguridad y gestión de riesgos**  
-> *Definiciones · Ejemplos · Ilustraciones*
-
-Cada entrada incluye: la **definición** precisa de la metodología y un **ejemplo aplicado** en el contexto de ciberseguridad.
-
 ---
 
 ## Índice
