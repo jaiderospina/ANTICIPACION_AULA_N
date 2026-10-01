@@ -14,3 +14,4 @@ La **anticipación de amenazas cibernéticas** es una competencia esencial en el
  - **Modelo de madurez CSIRT**: https://www.enisa.europa.eu/topics/incident-response/csirt-capabilities/csirt-maturity#contentList
  - **Modelado de amenazas** https://criminologiacorporativa.com/f/la-metodolog%C3%ADa-pasta-priorizando-amenazas-y-vulnerabilidades
  - **Varios Recursos**  https://github.com/Samsar4
+ - https://share.gemini.google/2VmCynyAuykT
